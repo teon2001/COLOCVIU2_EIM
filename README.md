@@ -1,0 +1,2 @@
+# PracticalTest02
+NECULA ANDREEAA 341C1
